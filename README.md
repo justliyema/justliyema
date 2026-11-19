@@ -35,7 +35,7 @@ Building useful things and learning in public.
 
 ## Platform toolkit
 
-No public language data yet — building the first project in the open.
+C# JavaScript C C++ Python Azure .Net Bootstrap MicrosoftSQLServer MySQL Figma Canva Git GitLab GitHub Selenium Cisco
 
 ## Keep it moving
 
